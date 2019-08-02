@@ -1,6 +1,5 @@
-﻿
-
-# Windows Merged Restore
+# This is a complete script to set up Gorilla and from Gorilla, install the applications to a new Windows computer
+# More info on Gorilla and tutorials on running this scrip can be found in the Gorilla README in this repo
 
 
 function setUpPublicFolder {
