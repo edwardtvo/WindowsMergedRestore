@@ -1,8 +1,6 @@
-﻿ 
-
-# This is a comment! 
-
-# This script installs Powershell Core and OpenSSH 
+# This is the first effort to set up installations of applications needed for Honors Windows computer 
+# This script is now not used anymore but its contents and functions might be helpful in future scripts
+# Such as using the setUpPublicFolder function in the new gorillaScript.ps1 with the same syntax
 
 
   
